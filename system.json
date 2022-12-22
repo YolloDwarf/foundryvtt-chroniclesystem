@@ -1,7 +1,7 @@
 {
   "title": "Chronicle System (Unofficial)",
   "description": "An implementation for Green Ronin's Chronicle System, used by SIFRP and Sword Chronicles.",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "esmodules": [
     "module/system/config.js"
   ],
@@ -24,8 +24,8 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "url": "https://github.com/YolloDwarf/foundryvtt-chroniclesystem/",
-  "manifest": "https://raw.githubusercontent.com/YolloDwarf/foundryvtt-chroniclesystem/master/system.json",
-  "download": "https://raw.githubusercontent.com/YolloDwarf/foundryvtt-chroniclesystem/master/chroniclesystem.zip",
+  "manifest": "https://raw.githubusercontent.com/YolloDwarf/foundryvtt-chroniclesystem/feature/degrees-and-damage/system.json",
+  "download": "https://raw.githubusercontent.com/YolloDwarf/foundryvtt-chroniclesystem/feature/degrees-and-damage/chroniclesystem.zip",
   "license": "ISC",
   "id": "chroniclesystem",
   "authors": [
