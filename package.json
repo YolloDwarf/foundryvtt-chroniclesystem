@@ -12,5 +12,8 @@
     "hooks": {
       "pre-commit": "npm run lint"
     }
+  },
+  "dependencies": {
+    "react-native-fs": "^2.20.0"
   }
 }
